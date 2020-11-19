@@ -1,0 +1,27 @@
+
+
+A. GLTF Fileformat
+
+1. Look at the GLTF site to understand why GLTF is important in 3D
+
+https://www.khronos.org/gltf/
+
+
+2. Understand the current exporters available to your 3D program.
+3. Either use an exporter as recommended or download the FBXtoGLTF exporter for your platform
+4. Select all files and drag GLB
+5 {get from griifth }
+
+- exporting from sketchfab  https://sketchfab.com/tags/free
+
+B. Exporting from VUE
+
+C. Using glitch.me
+
+D. Understanding basic aframe
+
+E. Modying your AFRAME/glitch for 360 Exporting
+
+F. Modying your AFRAME/glitch for GLTF Exporting
+
+H. Adding effects to your aframe
